@@ -38,3 +38,10 @@ print(Dziel(3,4))
 print(Dziel(3,0))
 
 print(SumaEl([2,3,4,65,4,3,4,5,6]))
+
+
+#1. Zdefinuj funkcję, która liczy sumę dwóch liczb
+#2. Zdefinuj funkcję, która sprawdza znak liczby i wypisuje odpowiednią informację na ekran
+#3. Zdefinuj funkcję, która sprawdza czy z podanych długości odcinków można utworzyć trójkąt (False/True)
+#4. Zdefinuj funkcję, która sprawdza czy podana liczba jest pierwsza
+#5. Zdefinuj funkcję, która zwraca NWD dwóch liczb
