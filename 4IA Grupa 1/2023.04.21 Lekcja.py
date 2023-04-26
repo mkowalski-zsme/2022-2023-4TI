@@ -28,8 +28,8 @@
 
 
 import biblioteka as lib
-    
+ 
 
 if __name__ == "__main__":
-    
+
     print(lib.Iloraz(123,321))
