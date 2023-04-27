@@ -11,8 +11,6 @@ class Osoba:
     def Wypisz(self):
         print(self.imie,self.nazwisko,self.wiek)
 
-
-
 p1 = Osoba("Jan","Nowak",23)
 p2 = Osoba("Anna","Kowalska",32)
 
