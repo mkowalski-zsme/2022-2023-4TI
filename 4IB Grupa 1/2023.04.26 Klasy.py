@@ -8,6 +8,7 @@ class Pracownik:
     def __str__(self):
         return self.imie +" "+self.nazwisko+" "+str(self.wiek)
     
+    
     def Wiek(self):
         print(self.wiek)
 
